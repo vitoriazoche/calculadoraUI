@@ -1,17 +1,32 @@
-# calculadoraUI
-
-MEO DEU
-MEO DEUMEO DEUMEO DEUMEO DEUMEO DEUMEO DEUMEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-
-MEO DEUMEO DEU
-MEO DEU
-MEO DEU
-MEO DEU
-MEO DEO
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora
+apagou tudo e agora

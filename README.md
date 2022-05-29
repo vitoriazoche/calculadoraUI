@@ -7,10 +7,9 @@
 <b>Spoiler:</b> eu não sei exatamente quanto tempo irá levar para ela funcionar <i>#help</i>
 
 
-
 links para ajuda (pois sei que vou precisar):
 * https://docs.conda.io/en/latest/
 * https://www.amazon.com.br/Fluent-Python-Luciano-Ramalho/dp/1491946008
-* 
+* https://materializecss.com/text-inputs.html
 
 Repositório original: https://github.com/vitoriazoche/calculadoraUI
